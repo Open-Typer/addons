@@ -1,0 +1,7 @@
+{
+	"name": "Test Addon",
+	"description": "Testing the addon repository.",
+	"version": "0.0.1",
+	"icon": "https://github.com/Open-Typer/Open-Typer/raw/v4/app/res/images/new.png",
+	"proprietary": false
+}
