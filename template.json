@@ -1,0 +1,20 @@
+{
+	"name": "Addon template",
+	"description": "An empty addon",
+	"version": "0.0.1",
+	"app_version": "5.0.0",
+	"icon": "https://github.com/Open-Typer/Open-Typer/raw/v4/app/res/images/new.png",
+	"proprietary": false,
+	"download_linux_qt5_x86_64": [
+		"https://github.com/Open-Typer/addons_template/releases/download/v0.0.1/qt5-x86_64-libopentyper-addon-template.so"
+	],
+	"download_windows_qt5_x86_64": [
+		"https://github.com/Open-Typer/addons_template/releases/download/v0.0.1/qt5-x86_64-opentyper-addon-template1.dll"
+	],
+	"download_windows_qt6_x86_64": [
+		"https://github.com/Open-Typer/addons_template/releases/download/v0.0.1/qt6-x86_64-opentyper-addon-template1.dll"
+	],
+	"download_macos_qt6_x86_64": [
+		"https://github.com/Open-Typer/addons_template/releases/download/v0.0.1/qt6-x86_64-libopentyper-addon-template.1.0.0.dylib"
+	]
+}
